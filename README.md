@@ -1,2 +1,2 @@
-# formulario
-Formulário Responsivo
+Formulário responsivo, utuilizando HTML e CSS.
+
